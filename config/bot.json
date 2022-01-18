@@ -1,0 +1,29 @@
+{
+  "activity": {
+    "name": "Us Working",
+    "type": "WATCHING"
+  },
+  "status": "idle",
+
+  "clientID": "928443118154567730",
+  "clientSECRET": "yStROwRrVpbgbo9MdkblrhWb-pHZ7-M_",
+ 
+  "domain": "https://ltg-studio.omarxg.repl.co",
+  "mainPrefix": "!",
+  "mainLang": "en",
+  "ownerID": "865016362459856896",
+
+  "panelType": "buttons",
+  "replyType": "embeds",
+
+  "leaveOnEmpty": "true",
+  "leaveOnStop": "true",
+  "leaveOnFinish": "true",
+  "searchSongs": "0",
+  "api": {
+    "spotify": {
+      "clientID": "865016362459856896",
+      "clientSECRET": "865016362459856896"
+    }
+  }
+}
